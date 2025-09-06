@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "d1a7e80accca0853",
+    "type": "split",
+    "children": [
+      {
+        "id": "06ad27c24fd7c1fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf83eacb3d5ba9f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "networking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "networking"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc5c8f5cdf6853b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a48d5bbd4da08e33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b92efe93b2292c27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "61900dfed35dea93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1c7fbdf44d08bfdb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a21e3a13819ea47",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1729c537b987948",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2498b0642d41b631",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "networking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for networking"
+            }
+          },
+          {
+            "id": "8e130866d85a0821",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "networking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from networking"
+            }
+          },
+          {
+            "id": "d3a8b8017064b141",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "38451083c9cd9a6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "networking.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of networking"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cf83eacb3d5ba9f3",
+  "lastOpenFiles": [
+    "Pasted image 20250906181258.png",
+    "Pasted image 20250906180109.png",
+    "networking.md",
+    "Pasted image 20250906171244.png",
+    "Pasted image 20250906171058.png",
+    "networking 1.md",
+    "Pasted image 20250906132425.png",
+    "Pasted image 20250906133542.png",
+    "Pasted image 20250906132437.png",
+    "Welcome.md"
+  ]
+}
